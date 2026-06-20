@@ -2960,6 +2960,63 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
         - ℹ️ Yıldızlar 4 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
   </details>
 
+  #### 👨‍🏫 Prof. Dr. Gökhan Bilgin 
+- 🚪 **Ofis:** EEF-D218
+- 🔗 **Araştırma Sayfası:** [http://avesis.yildiz.edu.tr/gbilgin/](http://avesis.yildiz.edu.tr/gbilgin/)
+- 💬 **Öğrenci Görüşleri:**
+  - 👤 **_Traktör Reis_**: Dersi basit anlatır. Genelde çıkmış sorar. Bol bol ödev verir. 
+  - 👤 **_Astro_**: derslerine gecikmeyin, soru sormaktan çekinmeyin, direk derste ne anlatıyorsa o çıkar, fazlasını bilmene gerek kalmaz. Bu adamın derslerinde geçmiş yılların sorularını bulan geçer. ℹ️ Yorum **12.2023** tarihinde yapılmıştır.
+  - 👤 **_Tehlikeli Pinokyo_**: Secmeli derslerini gecmeyeni döverler, bi defasinda test seklindeki sinavda dogru cevaplari isaretlemisti, yazici hatasi isteyen isaretlesin demisti :) ℹ️ Yorum **12.2023** tarihinde yapılmıştır.
+  - 👤 **_Madmax_**: Dersi olabildiğince kompakt anlatır ve anlatmadığı en ufak bir şeyi de sınavda sormaz. Dersine girip biraz da çalışırsanız gayet yüksek puan alabilirsiniz derslerinden. ℹ️ Yorum **01.2024** tarihinde yapılmıştır.
+  - 👤 **_Violancello_**: Derste sakız çiğnenmesi gibi önemsiz detaylara takılıyor, 30 hoca için sorun olmayan durum niye onun için sorun oluyor anlamıyorum açıkçası. Bunun dışında dersleri gayet güzel anlatıyor. ℹ️ Yorum **01.2024** tarihinde yapılmıştır.
+  - 👤 **_Blessed Camel_**: Disiplin abidesi. Sınavları genelde ortalama oluyor çok not da kırmıyor ama dönem boyunca insanı çok yoruyor. Devamsızlık en fazla önem gösterdiği şeydir ℹ️ Yorum **02.2024** tarihinde yapılmıştır.
+  - 👤 **_Karnaugh Haritası_**: Dönemin ilk dersinde her zaman geç gelenleri almayacağını söyler, ilerde onları aşağılayarak alır. Sınıfa hakimdir, Dersini iyi anlatır. Anlattığını sorar. ℹ️ Yorum **03.2024** tarihinde yapılmıştır.
+  - 👤 **_B_**: Dersi slayttan işliyor , bence çok monoton geçiyor . Derse geç kalanları almıyor o konuda katı. Ortalama genel olarak ℹ️ Yorum **04.2024** tarihinde yapılmıştır.
+  - 👤 **_Med_**: Zaman konusunda biraz ciddi olsa bile çok anlayışlı, ders anlatımı bana iyi geldmedi tek derse çok şey anlatıyor, sınav kendisi hazırlıyorsa zorluyor cidden ℹ️ Yorum **04.2024** tarihinde yapılmıştır.
+  - 👤 **_Boş_**: Asla maillere dönmüyor, kafasına göre harf notlandırması yapıyor. ℹ️ Yorum **01.2025** tarihinde yapılmıştır.
+  - 👤 **_83 Ile Ilk Kez Bb Alan Adam_**: Çan eğrisi öyle olacaksa olmasın bence. ℹ️ Yorum **01.2025** tarihinde yapılmıştır.
+  - ℹ️ Siz de [linkten](https://forms.gle/WbwDxHUz6ebJA7t36) anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Lojik Devreler](#-lojik-devreler)
+  - 📖 [Elektronik Devreler](#-elektronik-devreler)
+  - 📖 [Devre Teorisi ve Elektronik Devreler](#-devre-teorisi-ve-elektronik-devreler)
+  - 📖 [Veri Madenciliğine Giriş](#-veri-madenciliğine-giriş)
+  - 📖 [Biyomedikal İşaret ve Görüntü İşleme](#-biyomedikal-i̇şaret-ve-görüntü-i̇şleme)
+- ⭐ **Yıldız Sayıları:**
+  - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★☆☆☆☆
+  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★☆☆☆☆
+  - 🧠 Dersi Öğrenir Miyim:	★★★★★★☆☆☆☆
+  - 🎉 Derste Eğlenir Miyim:	★★★★★☆☆☆☆☆
+    - ℹ️ Yıldızlar 18 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
+  <details>
+  <summary><b>📅 Yıllara Göre Yıldız Sayıları</b></summary>
+
+    - 📅 *2023 yılı için yıldız bilgileri*
+      - 2023 Yılında 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★☆☆☆
+      - 2023 Yılında 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★★☆☆☆
+      - 2023 Yılında 🧠 Dersi Öğrenir Miyim:	★★★★★★★☆☆☆
+      - 2023 Yılında 🎉 Derste Eğlenir Miyim:	★★★★★★☆☆☆☆
+        - ℹ️ Yıldızlar 6 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
+    - 📅 *2024 yılı için yıldız bilgileri*
+      - 2024 Yılında 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★☆☆☆☆
+      - 2024 Yılında 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★☆☆☆☆
+      - 2024 Yılında 🧠 Dersi Öğrenir Miyim:	★★★★★★☆☆☆☆
+      - 2024 Yılında 🎉 Derste Eğlenir Miyim:	★★★★★★☆☆☆☆
+        - ℹ️ Yıldızlar 6 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
+    - 📅 *2025 yılı için yıldız bilgileri*
+      - 2025 Yılında 🎭 Dersi Zevkli Anlatır Mı:	★★★★★☆☆☆☆☆
+      - 2025 Yılında 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★☆☆☆☆
+      - 2025 Yılında 🧠 Dersi Öğrenir Miyim:	★★★★★★☆☆☆☆
+      - 2025 Yılında 🎉 Derste Eğlenir Miyim:	★★★★☆☆☆☆☆☆
+        - ℹ️ Yıldızlar 4 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
+    - 📅 *2026 yılı için yıldız bilgileri*
+      - 2026 Yılında 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★☆☆☆☆
+      - 2026 Yılında 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★☆☆☆☆
+      - 2026 Yılında 🧠 Dersi Öğrenir Miyim:	★★★★★★★☆☆☆
+      - 2026 Yılında 🎉 Derste Eğlenir Miyim:	★★★☆☆☆☆☆☆☆
+        - ℹ️ Yıldızlar 2 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
+  </details>
+
 
 
 #### 👩‍🏫 Prof. Dr. M. Elif Karslıgil 
@@ -3261,66 +3318,6 @@ Ayrıntılı bilgiye [Linkten](https://fbe.yildiz.edu.tr/duyurular/1378/Shinings
       - 2026 Yılında 🎉 Derste Eğlenir Miyim:	★★★★★★☆☆☆☆
         - ℹ️ Yıldızlar 1 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
   </details>
-
-
-
-#### 👨‍🏫 Doç. Dr. Gökhan Bilgin 
-- 🚪 **Ofis:** EEF-D218
-- 🔗 **Araştırma Sayfası:** [http://avesis.yildiz.edu.tr/gbilgin/](http://avesis.yildiz.edu.tr/gbilgin/)
-- 💬 **Öğrenci Görüşleri:**
-  - 👤 **_Traktör Reis_**: Dersi basit anlatır. Genelde çıkmış sorar. Bol bol ödev verir. 
-  - 👤 **_Astro_**: derslerine gecikmeyin, soru sormaktan çekinmeyin, direk derste ne anlatıyorsa o çıkar, fazlasını bilmene gerek kalmaz. Bu adamın derslerinde geçmiş yılların sorularını bulan geçer. ℹ️ Yorum **12.2023** tarihinde yapılmıştır.
-  - 👤 **_Tehlikeli Pinokyo_**: Secmeli derslerini gecmeyeni döverler, bi defasinda test seklindeki sinavda dogru cevaplari isaretlemisti, yazici hatasi isteyen isaretlesin demisti :) ℹ️ Yorum **12.2023** tarihinde yapılmıştır.
-  - 👤 **_Madmax_**: Dersi olabildiğince kompakt anlatır ve anlatmadığı en ufak bir şeyi de sınavda sormaz. Dersine girip biraz da çalışırsanız gayet yüksek puan alabilirsiniz derslerinden. ℹ️ Yorum **01.2024** tarihinde yapılmıştır.
-  - 👤 **_Violancello_**: Derste sakız çiğnenmesi gibi önemsiz detaylara takılıyor, 30 hoca için sorun olmayan durum niye onun için sorun oluyor anlamıyorum açıkçası. Bunun dışında dersleri gayet güzel anlatıyor. ℹ️ Yorum **01.2024** tarihinde yapılmıştır.
-  - 👤 **_Blessed Camel_**: Disiplin abidesi. Sınavları genelde ortalama oluyor çok not da kırmıyor ama dönem boyunca insanı çok yoruyor. Devamsızlık en fazla önem gösterdiği şeydir ℹ️ Yorum **02.2024** tarihinde yapılmıştır.
-  - 👤 **_Karnaugh Haritası_**: Dönemin ilk dersinde her zaman geç gelenleri almayacağını söyler, ilerde onları aşağılayarak alır. Sınıfa hakimdir, Dersini iyi anlatır. Anlattığını sorar. ℹ️ Yorum **03.2024** tarihinde yapılmıştır.
-  - 👤 **_B_**: Dersi slayttan işliyor , bence çok monoton geçiyor . Derse geç kalanları almıyor o konuda katı. Ortalama genel olarak ℹ️ Yorum **04.2024** tarihinde yapılmıştır.
-  - 👤 **_Med_**: Zaman konusunda biraz ciddi olsa bile çok anlayışlı, ders anlatımı bana iyi geldmedi tek derse çok şey anlatıyor, sınav kendisi hazırlıyorsa zorluyor cidden ℹ️ Yorum **04.2024** tarihinde yapılmıştır.
-  - 👤 **_Boş_**: Asla maillere dönmüyor, kafasına göre harf notlandırması yapıyor. ℹ️ Yorum **01.2025** tarihinde yapılmıştır.
-  - 👤 **_83 Ile Ilk Kez Bb Alan Adam_**: Çan eğrisi öyle olacaksa olmasın bence. ℹ️ Yorum **01.2025** tarihinde yapılmıştır.
-  - ℹ️ Siz de [linkten](https://forms.gle/WbwDxHUz6ebJA7t36) anonim şekilde görüşlerinizi belirtebilirsiniz.
-- 📚 **Verdiği Dersler:**
-  - 📖 [Lojik Devreler](#-lojik-devreler)
-  - 📖 [Elektronik Devreler](#-elektronik-devreler)
-  - 📖 [Devre Teorisi ve Elektronik Devreler](#-devre-teorisi-ve-elektronik-devreler)
-  - 📖 [Veri Madenciliğine Giriş](#-veri-madenciliğine-giriş)
-  - 📖 [Biyomedikal İşaret ve Görüntü İşleme](#-biyomedikal-i̇şaret-ve-görüntü-i̇şleme)
-- ⭐ **Yıldız Sayıları:**
-  - 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★☆☆☆☆
-  - 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★☆☆☆☆
-  - 🧠 Dersi Öğrenir Miyim:	★★★★★★☆☆☆☆
-  - 🎉 Derste Eğlenir Miyim:	★★★★★☆☆☆☆☆
-    - ℹ️ Yıldızlar 18 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
-  <details>
-  <summary><b>📅 Yıllara Göre Yıldız Sayıları</b></summary>
-
-    - 📅 *2023 yılı için yıldız bilgileri*
-      - 2023 Yılında 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★★☆☆☆
-      - 2023 Yılında 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★★☆☆☆
-      - 2023 Yılında 🧠 Dersi Öğrenir Miyim:	★★★★★★★☆☆☆
-      - 2023 Yılında 🎉 Derste Eğlenir Miyim:	★★★★★★☆☆☆☆
-        - ℹ️ Yıldızlar 6 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
-    - 📅 *2024 yılı için yıldız bilgileri*
-      - 2024 Yılında 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★☆☆☆☆
-      - 2024 Yılında 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★☆☆☆☆
-      - 2024 Yılında 🧠 Dersi Öğrenir Miyim:	★★★★★★☆☆☆☆
-      - 2024 Yılında 🎉 Derste Eğlenir Miyim:	★★★★★★☆☆☆☆
-        - ℹ️ Yıldızlar 6 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
-    - 📅 *2025 yılı için yıldız bilgileri*
-      - 2025 Yılında 🎭 Dersi Zevkli Anlatır Mı:	★★★★★☆☆☆☆☆
-      - 2025 Yılında 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★☆☆☆☆
-      - 2025 Yılında 🧠 Dersi Öğrenir Miyim:	★★★★★★☆☆☆☆
-      - 2025 Yılında 🎉 Derste Eğlenir Miyim:	★★★★☆☆☆☆☆☆
-        - ℹ️ Yıldızlar 4 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
-    - 📅 *2026 yılı için yıldız bilgileri*
-      - 2026 Yılında 🎭 Dersi Zevkli Anlatır Mı:	★★★★★★☆☆☆☆
-      - 2026 Yılında 🛣️ Dersi Kolay Geçer Miyim:	★★★★★★☆☆☆☆
-      - 2026 Yılında 🧠 Dersi Öğrenir Miyim:	★★★★★★★☆☆☆
-      - 2026 Yılında 🎉 Derste Eğlenir Miyim:	★★★☆☆☆☆☆☆☆
-        - ℹ️ Yıldızlar 2 oy üzerinden hesaplanmıştır. Siz de [linkten](https://forms.gle/s6ZMrQG4q578pEzm7) anonim şekilde oylamaya katılabilirsiniz.
-  </details>
-
 
 
 #### 👨‍🏫 Doç. Dr. Hamza Osman İlhan 
